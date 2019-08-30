@@ -23,7 +23,6 @@ g=a//b
 print("a//b = {}".format(g))#1
 
 
-
 #Python Assignment Operators
 #Assignment operators are used to assign values to variables.
 
